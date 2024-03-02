@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- Rendy Eka Febriyanto - BE8287921
 - Bob
